@@ -46,15 +46,3 @@ Note:	If your mail isn’t sent after the correct changes and you got a warning 
 	– Go to your Google account then click on the Security tab and scroll down, there you
 	can see the Less secure app access panel, Simply turn on that. This panel only shows,
 	if you haven’t enabled 2-Step Verification.
-	
-
-	Source Code By: Malahim Tech
-	
-	Follow on Social Profiles:-
-	
-	https://www.youtube.com/c/malahimtech
-	https://www.instagram.com/malahimansari/
-	
-	If you need help and work for your business so contact me on fiverr
-
-	https://www.fiverr.com/malahimansari85
